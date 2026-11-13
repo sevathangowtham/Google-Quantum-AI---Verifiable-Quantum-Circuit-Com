@@ -129,10 +129,7 @@ Removing the Newton step also frees the registers it needed, which is why qubits
 
 Python, NumPy, Matplotlib, **kickmix** (Qualtran circuit simulator), Kaggle notebooks.
 
-## Credits
 
-- Competition and paper: Khattar, Rubin, Gidney, Broughton, Low, Babbush et al., *Leveraging verifiable structure in quantum circuits to find more efficient compilations with agentic AI* (arXiv:2610.23832), and the open-source **kickmix** simulator in Qualtran.
-- Built step by step with an AI coding assistant (Claude) in a closed loop with the official verifiers, the workflow the competition is designed to encourage.
 
 ## Author
 
